@@ -21,7 +21,10 @@ h2 {
 .parrafo2 {
         color: yellow;
 }
-.link1:hover  {
+.link1:hover {
     color:teal;
     
+}
+.link2:hover{
+    color: yellow;
 }
