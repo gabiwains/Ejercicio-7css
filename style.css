@@ -28,3 +28,9 @@ h2 {
 .link2:hover{
     color: yellow;
 }
+.link1:visited{
+    color:slategray
+}
+.link2:active{
+    color:slategrey
+}
